@@ -12,6 +12,11 @@ if it encounters a wall, rebounding depending on its alignment. Adding a speed l
 "Direction" defines the directions of movement for squares (𝑐1).
 "Weight" defines the value added for each direction of movement for the squares.
 
+Technologies used in the project: Python with libraries:
+- numpy - a library for scientific calculations, operations on multidimensional arrays and matrices,
+- pygame - a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library,
+- random - a built-in module that you can use to make random numbers,
+- PIL - a module for image handling.
 
 Start picture:
 
